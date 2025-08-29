@@ -93,8 +93,8 @@
 [init]
 	defaultBranch = master
 [user]
-	name = nall
-	email = alexey.nikiforovall@gmail.com
+	name  = Oleksii Nikiforov
+	email = oleksii_nikiforov@epam.com
 [credential "https://github.com"]
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
